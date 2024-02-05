@@ -1,0 +1,42 @@
+- put the main style link as the last link to not make the normalize file override it 
+
+- don't forget to use vender prefixes with the properties that uses prefixes
+
+- notes
+
+    - put your class on the icon to help you if you want to cahnge the icons library 
+    - use js to display menues instead of hover
+
+    - font awesome icons in before pseodo element must contain the following propeties 
+
+        1- content => unicode
+        2- font-family: "font awesome 6 free"
+        3- font weight: 900;
+
+    - position abslute makes the div loose its full width
+
+    - use width: fit-content
+
+- some edits 
+
+    - header
+        - change caret position in search 
+        - container takes flex:1 to take the full container
+        - bar before the icon not done
+        
+        - problem in placeholder (input is displaed none)
+
+    - landing 
+        - add js to control bullits and angles
+        - add overlay
+
+
+- gallary and video hits the responsive
+
+- about us laptop models
+
+- bullets hover
+
+- posters images change
+
+- edit the structure of the input-div to have inline block elements
